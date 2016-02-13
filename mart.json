@@ -1,0 +1,16 @@
+[
+    {
+        "nid": "dvs-mart",
+        "type": "mart",
+        "text": "Mart",
+        "prop": {
+            "icon": "shopping-cart",
+            "render": {
+                "mmap": "text"
+                "sideview": "sidelist"
+            }
+        },
+        "branch": [
+        ]
+    }
+]
