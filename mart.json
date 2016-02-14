@@ -1,21 +1,5 @@
 [
     {
-        "nid": "dvs-mart",
-        "type": "mart",
-        "text": "Mart",
-        "prop": {
-            "icon": "shopping-cart",
-            "render": {
-                "mmap": "text",
-                "sideview": "sidelist"
-            }
-        },
-        "branch": [
-            "dvs-mart_dev",
-            "dvs-mart-dev"
-        ]
-    },
-    {
         "nid": "dvs-mart-dev",
         "pid": "dvs-mart",
         "type": "actorsection",
@@ -25,6 +9,22 @@
             "render": {
                 "sideview": "sidesection",
                 "mmap": "dropdownsection"
+            }
+        },
+        "branch": [
+            "dvs-mart-dev-scm"
+        ]
+    },
+    {
+        "nid": "dvs-mart-dev-scm",
+        "pid": "dvs-mart-dev",
+        "type": "actorgroup",
+        "text": "Source Control Menagement",
+        "prop": {
+            "tag": "scm",
+            "render": {
+                "sideview": "sidegroup",
+                "dropdown": "listgroup"
             }
         },
         "branch": []
