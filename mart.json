@@ -39,7 +39,7 @@
         "prop": {
             "tag": "github",
             "icon": "github",
-            "rate": 1,
+            "rate": 0,
             "url": "divsense.github.io/github",
             "render": {
                 "sideview": "actorclassitem"
@@ -48,6 +48,6 @@
             "secton": "dev",
             "group": "scm"
         },
-        "branch": [],
+        "branch": []
     }
 ]
