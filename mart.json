@@ -27,6 +27,27 @@
                 "dropdown": "listgroup"
             }
         },
-        "branch": []
+        "branch": [
+            "dvs-mart-dev-scm-github"
+        ]
+    },
+    {
+        "nid": "dvs-mart-dev-scm-github",
+        "pid": "dvs-mart-dev-scm",
+        "type": "martactor",
+        "text": "GitHub",
+        "prop": {
+            "tag": "github",
+            "icon": "github",
+            "rate": 0,
+            "url": "divsense.github.io/github",
+            "render": {
+                "sideview": "actorclassitem"
+            },
+			"vendor": "Divsense",
+            "secton": "dev",
+            "group": "scm"
+        },
+        "branch": [],
     }
 ]
