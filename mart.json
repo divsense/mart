@@ -39,7 +39,7 @@
         "prop": {
             "tag": "github",
             "icon": "github",
-            "rate": 0,
+            "rate": 1,
             "url": "divsense.github.io/github",
             "render": {
                 "sideview": "actorclassitem"
