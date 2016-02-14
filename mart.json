@@ -8,7 +8,8 @@
             "tag": "dev",
             "render": {
                 "sideview": "sidesection",
-                "mmap": "dropdownsection"
+                "dropdown": "dropdownsection",
+                "mmap": "text",
             }
         },
         "branch": [
@@ -24,7 +25,8 @@
             "tag": "scm",
             "render": {
                 "sideview": "sidegroup",
-                "dropdown": "listgroup"
+                "dropdown": "listgroup",
+                "mmap": "text",
             }
         },
         "branch": [
@@ -42,7 +44,8 @@
             "rate": 0,
             "url": "divsense.github.io/github",
             "render": {
-                "sideview": "actorclassitem"
+                "sideview": "martitem",
+                "mmap": "text",
             },
 			"vendor": "Divsense",
             "secton": "dev",
