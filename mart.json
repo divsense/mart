@@ -48,7 +48,7 @@
                 "mmap": "text"
             },
 			"vendor": "Divsense",
-            "secton": "dev",
+            "section": "dev",
             "group": "scm"
         },
         "branch": []
